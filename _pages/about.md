@@ -2,22 +2,32 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Computational Biology PhD Student @ CMU
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
 
-news: true
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+ Hi! I am a Ph.D student in the [Systems Biology Group](http://www.sb.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Ziv Bar-Joseph](http://www.cs.cmu.edu/~zivbj).
+ My current research focuses on developing machine learning methods for image segmentation and analysis of spatial proteomics datasets, as part of the [Human BioMolecular Atlas Program (HuBMAP)](https://hubmapconsortium.org/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+##### Research Interests:
+- machine learning for genomics and proteomics
+- deep learning
+- computer vision
+- probabilistic modeling
+
+
+##### Previously: [[CV](/assets/pdf/cv.pdf)]  
+I earned my BA and MEng degrees in Engineering, with specializations in Information Engineering and Bioengineering, from the [University of Cambridge](https://www.cam.ac.uk/). There, I worked with [Dr. Timothy O'Leary](http://www.eng.cam.ac.uk/profiles/tso24) and collaborated with [Prof. Jim Haseloff](https://haseloff.plantsci.cam.ac.uk/) on deep learning approaches for the segmentation of plant microscopy images.
+
+##### Misc.
+Outside of the COVID-19 pandemic, I enjoy climbing (find me at [Ascend](https://www.ascendclimbing.com/)!), golf, and volleyball.
+
