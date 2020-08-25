@@ -10,7 +10,7 @@ profile:
   address: >
     <p></p>
 
-news: false
+news: true
 social: true
 ---
 
