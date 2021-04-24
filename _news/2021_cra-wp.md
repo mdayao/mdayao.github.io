@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2021-4-24
+inline: true
+---
+
+I attended the [2021 CRA-WP Grad Cohort for Women](https://cra.org/cra-wp/grad-cohort-for-women/)! I met many inspiring women leaders in computing. I gave a Tech Talk on my recent work on marker selection for cell segmentation of spatial proteomics data (Bioarxiv paper coming soon!).
+

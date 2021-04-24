@@ -29,5 +29,5 @@ social: true
 I earned my BA and MEng degrees in Engineering, with specializations in Information Engineering and Bioengineering, from the [University of Cambridge](https://www.cam.ac.uk/). There, I worked with [Dr. Timothy O'Leary](http://www.eng.cam.ac.uk/profiles/tso24) and collaborated with [Prof. Jim Haseloff](https://haseloff.plantsci.cam.ac.uk/) on deep learning approaches for the segmentation of plant microscopy images.
 
 ##### Misc.
-Outside of the COVID-19 pandemic, I enjoy climbing (find me at [Ascend](https://www.ascendclimbing.com/)!), golf, and volleyball.
+During my free time, I enjoy climbing (find me at [Ascend](https://www.ascendclimbing.com/)!), cooking/baking, golf, and volleyball. I recently bought a van with my partner, and we are working on converting it to a campervan! Check back for blog posts about that process.
 
